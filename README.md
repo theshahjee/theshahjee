@@ -24,9 +24,7 @@ I am a passionate AI & ML Developer with a strong background in Natural Language
 
 ---
 
-## Example Code
-
-Here's a simple Python class that encapsulates my professional profile:
+## aboutme.py
 
 ```python
 class AboutMe:
@@ -54,6 +52,5 @@ class AboutMe:
             "I am always eager to explore new challenges and contribute to exciting projects."
         )
 
-# Example usage
 about_me = AboutMe()
 print(about_me.message)
