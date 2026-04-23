@@ -3,8 +3,9 @@
 **Full Stack & AI Solutions Architect**
 Building production AI platforms, voice agents, and automation systems that run at scale.
 
-Co-Founder & Lead Engineer @ [Pseudo Bytes](https://pseudobytes.com) · Full Stack Engineer @ Neural Lines
-Based in Pakistan · Shipping for clients across the US, UK, EU, and Middle East
+Co-Founder & Lead Engineer @ [Pseudo Bytes](https://pseudobytes.com) · Full Stack Engineer @ [Neural Lines](https://neurallines.com/)
+Based in Pakistan · 
+Shipping for clients across the US, UK, EU, and Middle East
 
 [Portfolio](https://pseudobytes.com) · [LinkedIn](https://linkedin.com/in/abdullahmughees) · 1,300+ network
 
