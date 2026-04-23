@@ -73,41 +73,4 @@ Senior AI and full stack engineering work, agency partnerships, advisory roles, 
 
 Reach me through [pseudobytes.com](https://pseudobytes.com) or LinkedIn.
 
----
 
-```python
-class Engineer:
-    def __init__(self):
-        self.name     = "Abdullah Mughees"
-        self.role     = "Full Stack & AI Solutions Architect"
-        self.company  = "Pseudo Bytes"
-        self.location = "Pakistan, shipping globally"
-
-        self.focus = [
-            "Voice AI and real time agent systems",
-            "Production LLM and RAG platforms",
-            "Full stack AI product engineering",
-            "Cloud native backends built to last",
-        ]
-
-        self.stack = {
-            "backend":  ["FastAPI", "Django", "Node.js"],
-            "frontend": ["React", "Next.js", "TypeScript"],
-            "ai":       ["OpenAI", "LangChain", "PyTorch", "RAG"],
-            "infra":    ["AWS", "Docker", "PostgreSQL", "Redis"],
-        }
-
-        self.off_hours = ["Chess", "MMA and boxing"]
-
-    def philosophy(self):
-        return (
-            "Ship systems that hold up in production. "
-            "Write code the next engineer can read. "
-            "Measure outcomes, not activity."
-        )
-
-
-if __name__ == "__main__":
-    me = Engineer()
-    print(me.philosophy())
-```
