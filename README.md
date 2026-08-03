@@ -1,9 +1,9 @@
 # Abdullah Mughees
 
-**Full Stack & AI Solutions Architect**
+**Backend & AI Engineer | AI Solutions Architect**
 Building production AI platforms, voice agents, and automation systems that run at scale.
 
-Co-Founder & Lead Engineer @ [Pseudo Bytes](https://pseudobytes.com) · Full Stack Engineer @ [Neural Lines](https://neurallines.com/)
+Co-Founder & Lead Engineer @ [Pseudobytes](https://pseudobytes.com) · Full Stack Engineer @ [Neural Lines](https://neurallines.com/)
 Based in Pakistan · 
 Shipping for clients across the US, UK, EU, and Middle East
 
@@ -21,43 +21,43 @@ My bar is production. I care about systems that survive real traffic, real users
 
 ### Sonoria AI · Voice AI SaaS
 Voice agent platform for service businesses. Twilio + OpenAI Realtime + Django + WebSockets.
-**100+ businesses served, $50K seed funding, AI cost driven to $0.06 per minute.**
+AI cost driven to $0.06 per minute.
 
 ### ShamelaGPT · Arabic RAG at Scale
-RAG platform over 60M+ pages of the Shamela digital library. FastAPI, PostgreSQL with pgvector, React, deployed on AWS EC2 behind Nginx.
-Async scraping pipeline handling up to 300 concurrent requests with memory efficient streaming. **60% reduction in user research time.**
+RAG platform over 8M+ pages of the Shamela digital library. FastAPI, PostgreSQL with pgvector, React, deployed on AWS EC2 behind Nginx.
+Async scraping pipeline handling up to 300 concurrent requests with memory efficient streaming. 60% reduction in user research time.
 
 ### KodeReach · LinkedIn Automation SaaS
 Backend orchestration, browser automation, scheduling infrastructure.
-**100+ paying clients, 7,000+ prospects processed monthly.**
+100+ paying clients, 7,000+ prospects processed monthly.
 
 ### Industry Rockstar AI · AI Platform Suite
 Thesis management system with AI review and scoring. Facial analysis tool for surgeons using deep learning on annotated data. AI course generator (content, modules, video).
-**60% less manual review, 80% faster course production.**
+60% less manual review, 80% faster course production.
 
 ### VerticalSols · Commerce and Delivery Backends
-MX Hub: Django + PostgreSQL, Stripe, dockerized on AWS with zero downtime deploys. **10K+ daily transactions, 99.9% uptime.**
+MX Hub: Django + PostgreSQL, Stripe, dockerized on AWS with zero downtime deploys. 10K+ daily transactions, 99.9% uptime.
 Khtwa: food delivery backend with Redis caching and WebSocket live updates.
 
 ## Currently Working On
 
-IoT and AI driven automation platforms at [Neural Lines](https://neurallines.com/): real time data ingestion, analytics dashboards, and decision systems built on FastAPI and React, deployed through Docker and MLOps workflows.
+IoT and AI driven automation platforms at Neural Lines: real time data ingestion, analytics dashboards, and decision systems built on FastAPI and React, deployed through Docker and MLOps workflows.
 
-Leading engineering and client delivery at Pseudo Bytes across voice AI, RAG systems, and full stack SaaS builds for US and European clients.
+Leading engineering and client delivery at Pseudobytes across voice AI, RAG systems, and full stack SaaS builds for US and European clients.
 
 ## Stack
 
-**Backend:** FastAPI, Django, Node.js, Flask, WebSockets, Celery, Redis
-**Frontend:** React, Next.js, TypeScript, Tailwind
-**AI/ML:** OpenAI, LangChain, Mistral, Hugging Face, PyTorch, TensorFlow, MCP, RAG, Pinecone, FAISS
-**Data:** PostgreSQL, MySQL, MongoDB, pgvector
-**Infra:** Docker, AWS (EC2, S3, Lambda), GCP, Vercel, CI/CD, Nginx
-**Automation:** n8n, Voiceflow, Selenium, Twilio, Stripe
+Backend: FastAPI, Django, Node.js, Flask, WebSockets, Celery, Redis
+Frontend: React, Next.js, TypeScript, Tailwind
+AI/ML: OpenAI, LangChain, Mistral, Hugging Face, PyTorch, TensorFlow, MCP, RAG, Pinecone, FAISS
+Data: PostgreSQL, MySQL, MongoDB, pgvector
+Infra: Docker, AWS (EC2, S3, Lambda), GCP, Vercel, CI/CD, Nginx
+Automation: n8n, Voiceflow, Selenium, Twilio, Stripe
 
 ## Background
 
 BS in Computer Science, FAST NUCES (2019 to 2023).
-Co-Founder @ Pseudo Bytes (2024 to present).
+Co-Founder @ Pseudobytes (2024 to present).
 Full Stack Engineer @ Neural Lines (2025 to present).
 Previously: Full Stack Developer @ Industry Rockstar AI, Dubai. Python & AI Developer @ VerticalSols.
 
@@ -70,7 +70,4 @@ I prefer small sharp teams over large ones, and shipping over meetings. I write 
 ## Open To
 
 Senior AI and full stack engineering work, agency partnerships, advisory roles, and technical co-founder conversations.
-
-Reach me through [pseudobytes.com](https://pseudobytes.com) or LinkedIn.
-
-
+Reach me through pseudobytes.com or LinkedIn.
