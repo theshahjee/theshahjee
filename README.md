@@ -23,9 +23,6 @@ My bar is production. I care about systems that survive real traffic, real users
 Voice agent platform for service businesses. Twilio + OpenAI Realtime + Django + WebSockets.
 AI cost driven to $0.06 per minute.
 
-### ShamelaGPT · Arabic RAG at Scale
-RAG platform over 8M+ pages of the Shamela digital library. FastAPI, PostgreSQL with pgvector, React, deployed on AWS EC2 behind Nginx.
-Async scraping pipeline handling up to 300 concurrent requests with memory efficient streaming. 60% reduction in user research time.
 
 ### KodeReach · LinkedIn Automation SaaS
 Backend orchestration, browser automation, scheduling infrastructure.
